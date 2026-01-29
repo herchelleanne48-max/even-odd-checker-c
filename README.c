@@ -9,7 +9,7 @@ int main() {
     if (number % 2 == 0) {
         printf("%d is an even number.\n", number);
     } else {
-        printf("The number %d is EVEN. \n, number);
+        printf("%d is an odd number. \n", number);
     }
 
     return 0;
